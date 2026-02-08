@@ -23,4 +23,4 @@ ATM system using OOP
 
 ## How to Run
 1. Open terminal
-2. Run: py(tab) homwwoek/hw.py  # or replace with your filename
+2. Run: py(tab) homwwoek/hw.py  
